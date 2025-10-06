@@ -1,1 +1,6 @@
 print("Hello, Boris Igorevich")
+print("Введите число a:")
+a = int(input())
+print("Введите число b:")
+b = int(input())
+print("Answer:", a+b)
